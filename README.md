@@ -4,7 +4,7 @@ Dragon Ball Xenoverse 2 MSG Tool By Delutto を使ってメッセージデータ
 
 実行には[.Net Core Runtime 3.1](https://www.ipentec.com/document/windows-install-dotnet-core-31-runtime)が必要
 
-メッセージデータは各自自力で吸い出す
+変換元のメッセージデータは各自で吸い出して用意する
 
 日本語の表示は別途フォントデータが必要(CS版のものをリネームするだけでOK)
 
